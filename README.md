@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 📝 I regularly write articles on [https://www.nickcybertech.me](https://www.nickcybertech.me)
+- 📝 I regularly write articles on [https://www.nickcybertech.dev](https://www.nickcybertech.dev)
 
-- 📫 How to reach me **contact@nikhilpatel.tk**
+- 📫 How to reach me **nikhil@patel.lol**
 
 - ⚡ Fun fact **I think I'm innocent!**
 
