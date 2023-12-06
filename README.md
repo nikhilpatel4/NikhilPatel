@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.nickcybertech.dev](https://www.nickcybertech.dev)
 
-- 📫 How to reach me **nikhil@patel.lol**
+- 📫 How to reach me **contact@nickcybertech.dev**
 
 - ⚡ Fun fact **I think I'm innocent!**
 
